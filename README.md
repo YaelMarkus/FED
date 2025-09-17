@@ -98,8 +98,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Yaël Markus    | Casper Kroon       | Joep Smit    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | hoe werkt een  | en dit             | uitleg over  | en dan ik dat    |
-  | hamburgermenu  | dit als er tijd is | font face    | dit wil ik zeker |
+  | hoe werkt een  | hoe werkt een      | uitleg over  | en dan ik dat    |
+  | hamburgermenu  | hamburgermenu      | font face    | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
