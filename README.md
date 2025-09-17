@@ -59,6 +59,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   De screenreader van nike werkte erg goed.
   Links werden duidelijk aan gegeven, kopjes waren duidelijk aangegeven. Je kon overal makkelijk doorheen tabben.
+  Gebruikt h1, h2, etc.
 
 </details>
 
@@ -96,20 +97,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Yaël Markus    | Casper Kroon       | Joep Smit    | student 4        |
+  | Yaël Markus    | Casper Kroon       | Joep Smit    | -                |
   | ---            | ---                | ---          | ---              |
-  | hoe werkt een  | hoe werkt een      | uitleg over  | en dan ik dat    |
-  | hamburgermenu  | hamburgermenu      | font face    | dit wil ik zeker |
+  | hoe werkt een  | hoe maak je een    | uitleg over  |                  |
+  | hamburgermenu  | searchbar          | @font-face    |                  |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Geleerd dat je summary tags kan gebruiken voor dropdown menu's
+  - Hoe je een search bar maakt, search input html (mozilla.org)
+  - Hamburger menu maak je met een button
+  - Uitleg over @font-face
+  - Uitleg over grid en flexbox
 
 </details>
 

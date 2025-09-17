@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 
 <head>
 	<meta charset="UTF-8">
@@ -8,14 +8,15 @@
 
 	<title>Nike Home</title>
 
-	<link href="styles/style.css" rel="stylesheet">
-	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+	<link href="styles/style.css" rel="stylesheet"> <!-- andere stylesheets toevoegen-->
+	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">  <!--favicon toevoegen-->
 </head>
 
 <body>
 	<header>
+		<!--Hamburger menu icoon als button gebruiken, menu zelf is een nav-->
 		<nav>
-			<ul>
+			<ul>  
 				<li> <a href="#"><img src="images/nikeLogo.svg" alt="Nike logo"></a></li>
 				<li> <a href="#"><img src="images/search.svg" alt="Zoek knop"> </a></li>
 				<li> <a href="#">profile</a></li>
@@ -27,7 +28,7 @@
 	<main>
 		<section>
 			<ul>
-				<a href="#">
+				<a href="#"> <!--Hidden h1 maken, a11y hide content-->
 					<li>
 						<h1>Just do it.</h1>
 						<h2>Only one way to find out.</h2>
@@ -117,7 +118,7 @@
 		</section>
 		<section>
 			<ul>
-				<li> Shoes
+				<li> Shoes <!--Summary tag gebruiken voor dropdown menu's-->
 					<ul>
 						<a href="#">
 							<li>Black Running Shoes</li>
