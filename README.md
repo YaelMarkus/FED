@@ -57,7 +57,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-  De screenreade van nike werkte erg goed.
+  De screenreader van nike werkte erg goed.
   Links werden duidelijk aan gegeven, kopjes waren duidelijk aangegeven. Je kon overal makkelijk doorheen tabben.
 
 </details>
@@ -96,10 +96,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Yaël Markus    | Casper Kroon       | Joep Smit    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | hoe werkt een  | en dit             | uitleg over  | en dan ik dat    |
+  | hamburgermenu  | dit als er tijd is | font face    | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
