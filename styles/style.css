@@ -3,6 +3,8 @@
 /**************/
 *, *::after, *::before {
   box-sizing:border-box;  
+  margin: 0;
+  padding: 0;
 }
 
 
@@ -31,6 +33,7 @@
 
 header {
 	margin: 0;
+	padding: 0;
 	justify-content: center;
 	width: 100%;
 }
@@ -38,6 +41,8 @@ header {
 nav {
     background-color: rgb(101, 101, 116);	
 	width: 100%;
+	margin: 0;
+	padding: 0;
 }
 
 nav ul {
@@ -47,6 +52,7 @@ nav ul {
     justify-content: flex-end;
 	align-items: center;
     gap: 1em;
+	margin: 0;
     padding: 0 2em 0 1em;
 	
 }
@@ -57,7 +63,7 @@ nav ul li:first-of-type {
 }
 
 nav ul li:first-of-type img {
-	height: 4em;
+	height: 5em;
 	
 }
 
