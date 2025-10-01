@@ -139,8 +139,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
+  - JS gebruiken voor de verschijnende navbar
+  - grid gebruiken voor de afbeelding met tekst erop
   - nog een punt
 - ...
 
