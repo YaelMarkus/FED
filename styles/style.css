@@ -29,3 +29,52 @@
 
 /* jouw code */
 
+header {
+	margin: 0;
+	justify-content: center;
+}
+
+nav {
+    background-color: rgb(101, 101, 116);	
+	width: 100%;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: flex-end;
+    gap: 1em;
+    width: 100%;
+    padding: 0 2em 0 1em;
+	
+}
+
+nav ul li:first-of-type {
+    margin-right: auto;
+	
+}
+
+nav ul li:first-of-type img {
+	height: 5em;
+	
+}
+
+body {
+	max-width: 100%;
+
+}
+
+body a {
+	text-decoration: none;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}

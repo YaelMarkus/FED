@@ -1,0 +1,53 @@
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+section:first-of-type ul li:not(:first-child) {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* section:first-of-type ul li:not(:first-child) h2 {
+
+}
+
+section:first-of-type ul li:not(:first-child) h3 {
+
+}
+
+section:first-of-type ul li:not(:first-child) p {
+
+}
+
+section:first-of-type ul li:not(:first-child) img {
+
+} */
+
+section:first-of-type ul li a p {
+    display: inline-block;
+    border: none;
+    border-radius: 3em;
+    background-color: rgb(194, 194, 196);
+    padding: .5em;
+    text-align: center;
+    color: #000;
+    
+}
+
+
+
+

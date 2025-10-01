@@ -1,0 +1,9 @@
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+:root {
+	/* startje */
+	--color-text:#111;
+	--color-background:#eee;
+}
