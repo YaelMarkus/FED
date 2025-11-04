@@ -178,17 +178,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Joep Smit      | Casper Kroon       | Yaël Markus  | student 4        |
   | ---            | ---                | ---          | ---              |
-  | hamburger menu | en dit             | en ik dit    | en dan ik dat    |
-  | foto overlay   | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | hamburger menu | responsiveness     | grid         | en dan ik dat    |
+  | foto overlay   |                    |              | dit wil ik zeker |
   | input element  | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Ik heb beter geleerd hoe ik grid kan gebruiken
+  - Ik heb meer geleerd over het hamburgermenu
+  -
   - ...
 
 </details>
@@ -203,17 +203,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="/images/screenshotHome.png" width="375px" alt="uitomst opdracht 1">
+  <img src="/images/screenshotHome2.png.png" width="375px" alt="uitomst opdracht 2">
+  <img src="/images/screenshotShoe.png" width="375px" alt="uitomst opdracht 1">
+  <img src="/images/screenshotShoe2.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
-
+  Ik heb meer over grid en flexbox geleerd en mijn basis is beter geworden. Ook heb ik meer over javascript geleerd.
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  De responsiveness ging niet zo goed, ik had het onderschat en daardoor heb ik uiteindelijk mijn hele tweede pagina niet goed kunnen maken.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
