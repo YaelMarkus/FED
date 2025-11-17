@@ -203,19 +203,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="/images/screenshotHome.png" width="375px" alt="uitomst opdracht 1">
-  <img src="/images/screenshotHome2.png.png" width="375px" alt="uitomst opdracht 2">
-  <img src="/images/screenshotShoe.png" width="375px" alt="uitomst opdracht 1">
-  <img src="/images/screenshotShoe2.png" width="375px" alt="uitomst opdracht 1">
+  <img src="/images/fullSizeHome1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="/images/fullSizeHome2.png" width="375px" alt="uitomst opdracht 2">
+  <img src="/images/fullSizeDetails1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="/images/fullSizeDetails2.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Ik heb meer over grid en flexbox geleerd en mijn basis is beter geworden. Ook heb ik meer over javascript geleerd.
+  Ik heb meer over grid en flexbox geleerd en mijn basis is beter geworden. Ook heb ik meer over javascript geleerd. Ook heb ik geleerd over hoe ik images beter responsive kan maken, door middel van clamps. Ik heb dus veel geleerd over responsiveness.
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  De responsiveness ging niet zo goed, ik had het onderschat en daardoor heb ik uiteindelijk mijn hele tweede pagina niet goed kunnen maken.
+  Ik vond het responsive maken nog best wel lastig, maar met hulp van Sanne, studentassistenten en klasgenoten is het goed gekomen. Ook was het toevoegen van de buttons op de manier hoe nike het deed moeilijk. ik kreeg de buttons niet goed in positie, dus ik heb dit overgeslagen. Ook speelt mijn video niet af.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -233,8 +233,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://utopia.fyi/clamp/calculator?a=960,1669,356.7%E2%80%94668.75
+  2. Melissa
+  3. Julian 
+  4. Sanne 
+  5. https://developer.mozilla.org/en-US/
 
 </details>
