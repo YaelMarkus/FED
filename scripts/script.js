@@ -19,7 +19,7 @@ function sluitMenu() {
 }
 
 // header
-//https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
+//https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia / chatgpt
 let searchInput = document.querySelector("input[type='search']");
 
 let mediaQuery = window.matchMedia("(min-width: 75em)");

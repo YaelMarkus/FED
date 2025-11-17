@@ -233,10 +233,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. https://utopia.fyi/clamp/calculator?a=960,1669,356.7%E2%80%94668.75
+  1. https://utopia.fyi/clamp/calculator?a=960,1669,356.7%E2%80%94668.75 voor responsiveness
   2. Melissa
   3. Julian 
   4. Sanne 
-  5. https://developer.mozilla.org/en-US/
+  5. https://developer.mozilla.org/en-US/ voor meerdere dingen
+  6. chatgpt voor een klein stukje javascript
+  7. https://codepen.io/shooft/pen/MYKjaXd?editors=0110 voor de video
+  8. https://codepen.io/Ya-l-Markus/pen/ByjmJyM voor grid
+
 
 </details>
