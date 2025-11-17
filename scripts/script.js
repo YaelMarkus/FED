@@ -1,5 +1,6 @@
 // JavaScript Document
 
+//https://codepen.io/Ya-l-Markus/pen/NPxJovK
 //hamburgermenu
 let menuOpenButton = document.querySelector("header menu button");
 menuOpenButton.addEventListener("click", openMenu);
@@ -18,7 +19,7 @@ function sluitMenu() {
 }
 
 // header
-
+//https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
 let searchInput = document.querySelector("input[type='search']");
 
 let mediaQuery = window.matchMedia("(min-width: 75em)");
@@ -55,7 +56,7 @@ let openMain = window.matchMedia("(min-width: 37.5em)");
   openMain.addEventListener("change", toggleFooterDetails);
 
 // footer 
-
+//https://www.w3schools.com/tags/att_details_open.asp
 let open = window.matchMedia("(min-width: 60em)");
 
   function toggleFooterDetails(openen) {
@@ -73,3 +74,32 @@ let open = window.matchMedia("(min-width: 60em)");
   toggleFooterDetails(open);
 
   open.addEventListener("change", toggleFooterDetails);
+
+
+//https://codepen.io/shooft/pen/MYKjaXd?editors=0110
+let videoButton = document.querySelector("main section:first-of-type ul li:first-child > button");
+let videoButtonImg = document.querySelector("main section:first-of-type ul li:first-child > button img");
+
+let deVideo = document.querySelector("video");
+
+
+videoButton.addEventListener("click", toggleVideo);
+
+function toggleVideo() {
+	
+	if( deVideo.paused == true ) {
+		deVideo.play();
+		// videoButton.textContent = "pauze";
+		videoButtonImg.src = "/images/pausebutton.png";
+		videoButtonImg.alt = "pauze";
+		
+	} else {
+		deVideo.pause();
+		// videoButton.textContent = "play";
+		
+		videoButtonImg.src = "/images/playbutton.png";
+		videoButtonImg.alt = "play";
+	}
+	
+
+}
