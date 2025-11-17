@@ -215,7 +215,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Dit was lastig/Is niet gelukt:
-  Ik vond het responsive maken nog best wel lastig, maar met hulp van Sanne, studentassistenten en klasgenoten is het goed gekomen. Ook was het toevoegen van de carousel buttons op de manier hoe nike het deed moeilijk. ik kreeg de buttons niet goed in positie, dus ik heb dit overgeslagen. Ook speelt mijn video niet af.
+  Ik vond het responsive maken nog best wel lastig, maar met hulp van Sanne, studentassistenten en klasgenoten is het goed gekomen. Ook was het toevoegen van de carousel buttons op de manier hoe nike het deed moeilijk. ik kreeg de buttons niet goed in positie, dus ik heb dit overgeslagen.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
