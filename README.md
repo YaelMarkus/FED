@@ -61,6 +61,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Links werden duidelijk aan gegeven, kopjes waren duidelijk aangegeven. Je kon overal makkelijk doorheen tabben.
   Gebruikt h1, h2, etc.
 
+  Ook werkt de website heel goed op telefoon formaat.
+
+  De css heeft wel heel veel errors.
+
+  De website gebruikt geen list elements
+
+  Alle foto's hebben een alt
+
+  De video op de home page speelt automatisch af, maar heeft wel controls om dit op pauze te zetten. Maar op telefoon formaat werken deze controls niet.
+
+  De website heeft geen skip link
+
+  De website support geen light/dark mode
+
+  Reduced motion query is er niet, maar er zijn ook geen animaties waar dit nodig voor is
+
+  De text valt soms weg in de images en ::selection is afwezig in de site
+
 </details>
 
 
@@ -158,6 +176,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+  Mijn versie heeft 0 errors bij de w3c validation, alleen die van de markers voor de carousel, maar deze kreeg ik niet weg zonder dat de markers weg gingen.
+
+  Ik heb list elements toegevoegd aan de website voor een duidelijker overzicht
+
+  Mijn video speelt niet automatisch af, deze kan je door middel van een knop aan en uit zetten. De knop werkt zowel op klein als op groot formaat.
+
+  Ik heb een skip link button toegevoegd, zodat de gebruiker gelijk naar de main content kan skippen.
+
+  Ook heb ik light/dark mode toegevoegd aan de site
+
+  Ik heb geen reduced motion query gebruikt, want ik heb geen animaties toegevoegd aan de site
+
+  Ook heb ik geen contrast check gedaan op mijn eigen site, het probleem van de de text soms een beetje weg valt op afbeeldingen is er dus nog steeds.
+
+
+Op mijn website deed de screenreader het prima, net zoals op de echte nike website. Het enige waar ik wel beter over had kunnen nadenken was het gebruik van de header elements. Ik heb ze iets te veel gebruikt, waardoor de screenreader onnodig door de header elementen moest, ik had van sommige beter paragraph elements kunnen maker, zodat een gebruiker er vlotter doorheen kon navigeren bij het gebruik van een screenreader.
 </details>
 
 
@@ -211,13 +245,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Dit ging goed/Heb ik geleerd: 
   Ik heb meer over grid en flexbox geleerd en mijn basis is beter geworden. Ook heb ik meer over javascript geleerd. Ook heb ik geleerd over hoe ik images beter responsive kan maken, door middel van clamps. Ik heb dus veel geleerd over responsiveness.
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="/images/jsCode.png" width="375px" alt="top">
+  <img src="/images/clamp.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Ik vond het responsive maken nog best wel lastig, maar met hulp van Sanne, studentassistenten en klasgenoten is het goed gekomen. Ook was het toevoegen van de carousel buttons op de manier hoe nike het deed moeilijk. ik kreeg de buttons niet goed in positie, dus ik heb dit overgeslagen.
+  Ik vond het responsive maken nog best wel lastig, maar met hulp van Sanne, studentassistenten en klasgenoten is het goed gekomen. Ook was het toevoegen van de carousel buttons op de manier hoe nike het deed moeilijk. ik kreeg de buttons niet goed in positie, dus ik heb dit overgeslagen. Uiteindelijk heeft Sanne dit voor mij gedaan in het eindgesprek, dus is het alsnog een soort van gelukt!
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="/images/buttons.png" width="375px" alt="bummer">
+  <img src="/images/carouselButtons.png" width="375px" alt="bummer">
 </details>
 
 

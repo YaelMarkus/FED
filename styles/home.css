@@ -255,6 +255,8 @@ main section:nth-of-type(2) ul {
     margin-left: 1.5rem;
     margin-right: 1.5rem;
     scrollbar-width: none;
+
+    anchor-name:--carousel;
 }
 
 main section:nth-of-type(2) ul li {
@@ -317,32 +319,40 @@ main section:nth-of-type(2) ul li img {
     object-fit: contain;
 }
 
-/* main section:nth-oftype(2) ul::scroll-button(*) {
+main section:nth-of-type(2) ul::scroll-button(*) {
   width:3em;
   aspect-ratio:1;
   margin:1em 0 0;
   padding:0;
-  background-color:var(--color-background-black);
+  background-color:red;
   border:none;
   border-radius:50%;
   cursor:pointer;
   font-size:1em;
-  position:relative;
+  /* position:relative; */
+  position:absolute;
+  position-anchor:--carousel;
 }
 
-main section:nth-oftype(2) ul::scroll-button(right) {
+main section:nth-of-type(2) ul::scroll-button(right) {
   content: '→' / 'Next';
-  right:clamp(1.5rem, 5vw, 2rem);
+  /* right:clamp(1.5rem, 5vw, 2rem); */
+  position-area:block-start;
+  justify-self:end;
 }
 
-main section:nth-oftype(2) ul::scroll-button(left) {
+main section:nth-of-type(2) ul::scroll-button(left) {
   content: '←' / 'Previous';
-  left:clamp(1.5rem, 5vw, 2rem);
+  /* left:clamp(1.5rem, 5vw, 2rem); */
+  position-area:block-start;
+  justify-self:end;
+
+  translate:-125%;
 }
   
-main section:nth-oftype(2) ul::scroll-button(*):disabled {
+main section:nth-of-type(2) ul::scroll-button(*):disabled {
   opacity:.5;
-} */
+}
 
 }
 
